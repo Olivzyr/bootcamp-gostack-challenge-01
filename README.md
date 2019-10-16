@@ -7,7 +7,7 @@
   GoStack
   [Challenge 1: Concepts of NodeJS](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/README.md#desafio-01-conceitos-do-nodejs)
 
-  > "Antes do software poder ser reutilizável ele primeiro tem de ser utilizável." **Ralph Johnson**
+  > "Before software can be reusable it first has to be usable." **Ralph Johnson**
 </p>
 
 
